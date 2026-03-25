@@ -26,7 +26,12 @@
 
 
         </div>
+        <div class="beneficios">
+            <ul>
+                <li>Localização Privilegiada</li>
+            </ul>
 
+        </div>
         </main>
 
 </body>
